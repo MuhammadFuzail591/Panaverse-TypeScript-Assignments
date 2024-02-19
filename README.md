@@ -1,2 +1,3 @@
 # TypeScript-Exercises
 All 45 Exercises given from PANAVERSE are Solved...
+Governor Sindh IT Course 1st Assignment 
